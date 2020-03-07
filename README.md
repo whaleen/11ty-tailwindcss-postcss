@@ -1,9 +1,19 @@
 
+## Quickly 
+
 `npm install`
-`npx @11ty/eleventy`
+
+`npx @11ty/eleventy` 
+
 `npm run build-postcss`
-Get your hot-loaded lolcathost on
+
+`code .`
+
+### Get your hot-loaded lolcathost on:
+
 `npx @11ty/eleventy --serve`
+
+Start designing.
 
 
 ## In package.json:
@@ -24,8 +34,6 @@ Easy to change. The postcss build command needs to respect these locations so ed
 
 ## PostCSS requires
 
-tailwind
-autoprefixer
-cssnano
+tailwind. autoprefixer, cssnano
 
 You can delete the last two if you don't need them.
